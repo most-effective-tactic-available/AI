@@ -1,4 +1,4 @@
-# Some of the most effective tactics to harness the power of 'AI'
+# Most effective tactics available to harness the power of 'AI'
 Consider utilizing these stategies and tactics to more fully leverage the AI systems.
 
 # AI Coding + AI Peer Review
@@ -15,7 +15,6 @@ Open an OpenVAS XML scan file, parse the results and sort hosts by severity of t
 Open a .Nessus file, extract (potentially additional) host names from the SSL certs, and sort hosts by the severity of the vulnerabilities
 * https://github.com/most-effective-tactic-available/Nessus_Quick_Report
 
-
 # AI Code 'Transmografication' 
 AI can often transmogrify code from one programming language to another, or at least provide strong and mostly accurate guidance when simply wanting to change from one script or programming language to another. This output can (and probably should) be AI Peer Reviewed. 
 
@@ -30,4 +29,4 @@ Below is an (completely unaffiliated) website dedicated at tracking 'prompt inje
 https://www.jailbreakchat.com/
 
 # AI Peer Review of information
-Leveraging multiple AI systems to review information offers additional validation, context, and helps narrow down key areas for further research. Employing diverse AI perspectives enhances the overall reliability and accuracy of the information.
+Leveraging multiple AI systems to review information offers additional validation, context, and helps narrow down key areas for further research. Employing diverse AI perspectives enhances the overall reliability and accuracy of the information. Consider using a mixture of github copilot, chatGPT, Bard, WatsonX, and other AI LLMs or coding systems.
