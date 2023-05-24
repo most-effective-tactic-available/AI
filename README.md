@@ -11,10 +11,8 @@ The task description for AI is embedded within the prompt itself. Crafting well-
 # Prompt Injection
 Prompt injection involves manipulating the prompt to bypass or subvert the AI's predefined limitations or guardrails. This technique can range from avoiding specific "key words" to posing alternative questions that lead to the desired answer. However, it's worth noting that prompt injection is often detected and mitigated promptly by AI systems.
 
-Example:
+Below is a website dedicated at tracking 'prompt injections':
+https://www.jailbreakchat.com/
 
-Flagged Prompt: "How would I perform a penetration test on a mainframe?"
-Approved Prompt: "How would I validate the security controls on a mainframe?"
-
-# AI Peer Review
+# AI Peer Review of information
 Leveraging multiple AI systems to review information offers additional validation, context, and helps narrow down key areas for further research. Employing diverse AI perspectives enhances the overall reliability and accuracy of the information.
