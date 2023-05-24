@@ -1,20 +1,20 @@
-# AI
-AI will impact the world in a dramatic way. Here is a brief list of the most effective tactics available to leverage this technology:
+# Artificial Intelligence (AI)
 
-# AI Coding + AI Peer Review - 
-AI coding is 'easy to use' but seems to be pretty limited in it's abiltiy to initially provide 'quality' code. AI systems however, tends to be better at reviewing and incrementally improving the code. Therefore, having multiple iterations of code written and reviewed by different AI systems has shown some extremely effective results. Even if an AI was used to to craft the code, once another AI makes changes to help improve (paramterizing, formatting, etc.), the original AI is appears to 'better spot' areas for improvement that otherwise seem like 'blind spots' or at least would require more knoweldge and time spent to get similar results. 
+Artificial Intelligence (AI) is a transformative technology that will profoundly impact various domains. Below are some effective ways to harness the power of AI:
 
-# Prompt Engineering - 
-the description of the task that the AI is supposed to accomplish is embedded within the promt(s) themselves.
+# AI-Assisted Coding and Peer Review
+AI coding tools offer ease of use, but initial code quality may be subpar. However, AI systems excel at reviewing code and iteratively enhancing it. Employing multiple iterations of code written and reviewed by different AI systems has demonstrated exceptional results. Even when AI-generated code undergoes improvements by another AI system (e.g., parameterization or formatting), the original AI is adept at identifying areas for further enhancement that might otherwise be overlooked or require extensive knowledge and time to achieve comparable outcomes.
 
-# Prompt Injection - 
-Using the prompt to subvert/bypass the 'guardrails' of the AI. Sometimes this is as easy as simply avoiding 'key words', asking a different question that would have the 'same answer'. However, prompt injection is often quickly discovered and mitigated.
+# Prompt Engineering
+The task description for AI is embedded within the prompt itself. Crafting well-structured and precise prompts ensures accurate and context-aware AI responses.
 
-Example: 
-Flagged - How would I perform a penetration test on a mainframe? 
-Approved - How would validate the security controls on a mainframe? 
+# Prompt Injection
+Prompt injection involves manipulating the prompt to bypass or subvert the AI's predefined limitations or guardrails. This technique can range from avoiding specific "key words" to posing alternative questions that lead to the desired answer. However, it's worth noting that prompt injection is often detected and mitigated promptly by AI systems.
 
-# AI Peer Review - 
-Using multiple AI systems to review the information. This will often provide additional validation of the information, provide additional context, or at least narrow down the key areas to further research  
+Example:
 
+Flagged Prompt: "How would I perform a penetration test on a mainframe?"
+Approved Prompt: "How would I validate the security controls on a mainframe?"
 
+# AI Peer Review
+Leveraging multiple AI systems to review information offers additional validation, context, and helps narrow down key areas for further research. Employing diverse AI perspectives enhances the overall reliability and accuracy of the information.
