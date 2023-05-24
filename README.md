@@ -14,7 +14,7 @@ https://github.com/most-effective-tactic-available/OpenVAS_XML_Sorting_Report/bl
 AI can often transmogrify code from one programming language to another, or at least provide strong and mostly accurate guidance when simply wanting to change from one script or programming language to another. This output can (and probably should) be AI Peer Reviewed. 
 
 # Prompt Engineering
-The task description for AI is embedded within the prompt itself. Crafting well-structured and precise prompts ensures accurate and context-aware AI responses.
+The task description for AI is embedded within the prompt itself. Promt Engineering is effectively crafting well-structured and precise prompts ensures accurate and context-aware AI responses.
 
 # Prompt Injection
 Prompt injection involves manipulating the prompt to bypass or subvert the AI's predefined limitations or guardrails. This technique can range from avoiding specific "key words" to posing alternative questions that lead to the desired answer. However, it's worth noting that prompt injection is often detected and mitigated promptly by AI systems.
