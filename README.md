@@ -21,7 +21,7 @@ Open an OpenVAS XML scan file, parse the results and sort hosts by severity of t
 * https://github.com/most-effective-tactic-available/OpenVAS_XML_Sorting_Report/blob/main/VAS_Quick_Report.py
 
 
-## * AI Code 'Transmografication' 
+## * AI Code 'Transmogrification' 
 AI can often transmogrify code from one programming language to another, or at least provide strong and mostly accurate guidance when simply wanting to change from one script or programming language to another. This output can (and probably should) be AI Peer Reviewed. 
 
 Example:
