@@ -3,7 +3,7 @@ Before delving further into AI, please review and consider the OWASP top 10 vuln
 * https://owasp.org/www-project-ai-security-and-privacy-guide/ 
 
 
-# Most effective tactics available to harness the power of 'AI'
+# 'Most effective tactics available' to leverage 'AI'
 Utilizing the stategies and tactics listed below will allow you to more fully leverage AI systems.
 
 ## * 'AI Coding' + 'AI Peer Review'
