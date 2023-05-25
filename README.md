@@ -14,11 +14,12 @@ Examples of entirely 'AI written' and 'AI peer reviewed' code:
 A reverse command shell, written in the COBOL language 
 * https://github.com/most-effective-tactic-available/Reverse_Shell_Cobol
 
+Open a .Nessus file, extract (potentially additional) host names from the SSL certs, and sort hosts by the severity of the vulnerabilities
+* https://github.com/most-effective-tactic-available/Nessus_Quick_Report
+
 Open an OpenVAS XML scan file, parse the results and sort hosts by severity of the vulnerabilities
 * https://github.com/most-effective-tactic-available/OpenVAS_XML_Sorting_Report/blob/main/VAS_Quick_Report.py
 
-Open a .Nessus file, extract (potentially additional) host names from the SSL certs, and sort hosts by the severity of the vulnerabilities
-* https://github.com/most-effective-tactic-available/Nessus_Quick_Report
 
 # * AI Code 'Transmografication' 
 AI can often transmogrify code from one programming language to another, or at least provide strong and mostly accurate guidance when simply wanting to change from one script or programming language to another. This output can (and probably should) be AI Peer Reviewed. 
