@@ -4,7 +4,7 @@ Before delving further into AI, please review and consider the OWASP (top 10) vu
 
 
 # 'Most effective tactics available' to leverage 'AI'
-Utilizing the stategies and tactics listed below will allow you to more fully leverage AI systems.
+Utilizing the strategies and tactics listed below will allow you to more fully leverage AI systems.
 
 ## * 'AI Coding' + 'AI Peer Review'
 AI coding offers 'incredible' ease of use, but initial code quality may be subpar. However, AI systems excel at reviewing code and iteratively enhancing it. Employing multiple iterations of code written and reviewed by different AI systems has demonstrated exceptional results. Even when AI-generated code undergoes improvements by another AI system (e.g., parameterization or formatting), the original AI is often adept at identifying areas for further enhancement that might otherwise be overlooked or require extensive knowledge and time to achieve comparable outcomes.
