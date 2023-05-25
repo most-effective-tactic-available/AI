@@ -1,5 +1,5 @@
 ### Security Concerns
-Before delving further into AI, please review and consider the OWASP top 10 vulnerabilities related to LLM applications
+Before delving further into AI, please review and consider the OWASP (top 10) vulnerabilities related to LLM applications
 * https://owasp.org/www-project-ai-security-and-privacy-guide/ 
 
 
