@@ -24,6 +24,9 @@ Open an OpenVAS XML scan file, parse the results and sort hosts by severity of t
 ## * AI Code 'Transmografication' 
 AI can often transmogrify code from one programming language to another, or at least provide strong and mostly accurate guidance when simply wanting to change from one script or programming language to another. This output can (and probably should) be AI Peer Reviewed. 
 
+Example:
+WMIC'post-exploitation' commands -> Powershell & Zsh
+
 ## * 'Prompt Engineering'
 The task description for AI is embedded within the prompt itself. Promt Engineering is effectively crafting well-structured and precise prompts ensures accurate and context-aware AI responses.
 
