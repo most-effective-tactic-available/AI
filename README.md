@@ -30,13 +30,13 @@ Example:
 ## * 'Prompt Engineering'
 The task description for AI is embedded within the prompt itself. Prompt Engineering is effectively crafting well-structured and precise prompts ensures accurate and context-aware AI responses.
 
-Reference with more detailed examples and guidelines (Browse with caution!):
+Reference (unaffiliated) with more detailed examples and guidelines (Browse with caution!):
 * https://hackr.io/blog/prompt-engineering
 
 ## * 'Prompt Injection'
 Prompt injection involves manipulating the prompt to bypass or subvert the AI's predefined limitations or guardrails. This technique can range from avoiding specific "key words" to posing alternative questions that lead to the desired answer. However, it's worth noting that prompt injection is often detected and mitigated promptly by AI systems.
 
-Below is a (completely unaffiliated) website dedicated at tracking 'prompt injections' (Browse with caution!):
+Below is a (unaffiliated) website dedicated at tracking 'prompt injections' (Browse with caution!):
 * https://www.jailbreakchat.com/
 
 ## * 'AI Peer Review' of information
