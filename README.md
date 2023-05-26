@@ -41,3 +41,9 @@ Below is a (unaffiliated) website dedicated at tracking 'prompt injections' (Bro
 
 ## * 'AI Peer Review' of information
 Leveraging multiple AI systems to review information offers additional validation, context, and helps narrow down key areas for further research. Employing diverse AI perspectives enhances the overall reliability and accuracy of the information. Consider using a mixture of github copilot, chatGPT, Bard, WatsonX, and other AI LLMs or coding systems.
+
+## * 'AI-duck debugging'
+AI-duck debugging is derived from the practice of explaining a problem to a rubber duck, which is a common technique used by programmers. By verbalizing the problem, the developer can often clarifies their thoughts and identify potential errors or oversights in the code. Instead of a physical rubber duck, an AI assistant as a virtual "duck" to facilitate the debugging process.  
+
+Here is a link to the original rubber-duck debugging technique:
+* https://en.wikipedia.org/wiki/Rubber_duck_debugging
